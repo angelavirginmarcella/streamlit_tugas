@@ -1,6 +1,9 @@
 streamlit
 pymongo
+pandas
+matplotlib
+wordcloud
 requests
-bs4
+beautifulsoup4
 schedule
 googlesearch-python
