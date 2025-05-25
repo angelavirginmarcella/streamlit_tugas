@@ -1,0 +1,6 @@
+streamlit
+pymongo
+requests
+bs4
+schedule
+googlesearch-python
